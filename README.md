@@ -1,1 +1,1 @@
-# ITP-CabinetsOfWonder-Coral-Customizer-PaulineOC-ITP-CabinetsOfWonder-Coral-Server
+# ITP-CabinetsOfWonder-Coral-Server
